@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am enrolled in the LeWagon Data Science and AI boot camp.
+Before it starts I am getting to grips with some tools that we will be using on the course.
+
 <!--
 **GRDWilliams/GRDWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
